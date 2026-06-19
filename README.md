@@ -16,4 +16,4 @@ python3 measure.py <path-to-kernel-CVEs.csv> --kernel-source <path-to-linux-sour
 
 # Feedback and contributions welcome
 
-This is a work in progress and we welcome any feedback and code contributions.
+This is a work in progress and we welcome any feedback or code contributions.
